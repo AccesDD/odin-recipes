@@ -1,1 +1,1 @@
-This is my first web mini project. Traditional russain recipes.
+This is my first web mini project. Traditional russian recipes.
